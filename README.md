@@ -1,0 +1,1 @@
+[![Angular Mid-Level Certificate](https://img.shields.io/badge/Angular_Certified-Mid--Level-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1A1A)](https://certificates.dev/angular/certificates/83586533-fb48-4f2e-b036-75fab97c34b4)
